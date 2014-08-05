@@ -36,7 +36,6 @@ public class TestNGProgressRunListener implements ITestListener {
 
 
 	private void sendTestTree(Map<String, ArrayList<String>> classMap, ITestContext context) {
-		String suiteName = context.getSuite().getName();
 		String xmlTestName = context.getCurrentXmlTest().getName();
 		//String parentName = suiteName + ":" + xmlTestName;
 		String runId = getRunId(context);
