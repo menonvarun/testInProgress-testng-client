@@ -29,7 +29,7 @@
 		</repository>
 	</repositories>
 	<scm>
-		<connection>scm:git:git://github.com:menonvarun/testInProgress-testng-client.git</connection>
+		<connection>scm:git:ssh://github.com:menonvarun/testInProgress-testng-client.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:menonvarun/testInProgress-testng-client.git</developerConnection>
 		<url>https://github.com/menonvarun/testInProgress-testng-client</url>
 	</scm>
